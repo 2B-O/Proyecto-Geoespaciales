@@ -4,5 +4,7 @@
 
 ## Titulo del proyecto: Calidad de vida vs criminalidad.
 
+El presente repositorio esta todo lo relacionado al proyecto final de ciencias de datos geoespaciales. Incluye el informe, la presentacion, los codigos y todo lo necesario para correr el notebook. Se incluye ademas un archivo .ylm, para que asi se pueda descargar los paquetes necesarios para el proyecto.
+
 
 
